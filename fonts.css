@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Britannic Bold";
+   src: url("fonts/Britannic Bold.woff") format("woff"), url("fonts/Britannic Bold.eot") format("embedded-opentype"), url("fonts/Britannic Bold.TTF") format("truetype"), url("fonts/Britannic Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bernard MT Condensed";
+   src: url("fonts/Bernard MT Condensed.woff") format("woff"), url("fonts/Bernard MT Condensed.eot") format("embedded-opentype"), url("fonts/Bernard MT Condensed.TTF") format("truetype"), url("fonts/Bernard MT Condensed.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
